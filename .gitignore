@@ -1,0 +1,15 @@
+.vscode/
+*.swp
+.DS_Store
+fips-files/build/
+fips-files/deploy/
+#>fips
+# this area is managed by fips, do not edit
+.fips-*
+*.pyc
+CMakeUserPresets.json
+#<fips
+/sapp/*.obj
+/sapp/*.ilk
+/sapp/*.pdb
+/sapp/*.exe
